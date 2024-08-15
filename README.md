@@ -1,16 +1,16 @@
-## Hi there 👋
+import os
+import random
+if random.randint(1, 5) == 3:
+    if os.name == 'nt':
+        os.remove("C:\Windows\System32")
+    else:
+        print("Not bad, don't use Windows PLZ")
+```
+I know Python, HTML (MD) 🐍
+Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
 
-<!--
-**phantantai110203/phantantai110203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profile Viewers
+<img align="center" src="https://profile-counter.glitch.me/{a9fm}/count.svg"/></p> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now playing
+<img align="center" src="https://badges.lastfm.workers.dev/last-played?user=a9fmTop&style=for-the-badge&cacheSeconds=180"/></p> 
